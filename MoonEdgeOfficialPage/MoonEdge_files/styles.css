@@ -1,0 +1,56 @@
+body {
+
+    margin: 0 auto;
+  background-repeat: no-repeat;
+  background-image: url(../images/SiteBackGround.png);
+  background-attachment: fixed;
+  background-size: auto;
+      background-position: center;
+  width: 100%;
+  height: auto;
+
+
+}
+
+.titleParagraph {
+    text-align: center;
+    font-family: 'Roboto Condensed', sans-serif;
+}
+
+.contactInfo {
+    text-align: center;
+    font-family: 'Roboto Condensed', sans-serif;
+}
+
+.gameLinks {
+    text-align: center;
+    font-family: 'Roboto Condensed', sans-serif;
+}
+
+.OtherLinks {
+    font-family: 'Roboto Condensed', sans-serif;
+	
+}
+
+.outer {
+
+    display: table;
+    position: absolute;
+    height: 75%;
+    width: 100%;
+}
+
+.middle {
+    display: table-cell;
+    vertical-align: middle;
+
+}
+
+.inner {
+    width: 50;
+    margin-left: auto;
+    margin-right: auto;
+    color: white;
+
+    width: /*whatever width you want*/;
+}
